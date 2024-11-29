@@ -17,9 +17,9 @@
 <li>Data Preprocessing: imblearn</li>
 <li>Machine Learning: scikit, xgboost</li>
 <h3>Steps Followed</h3>
-<strong>1. Data collection:</strong> Obtained the customer churn dataset from Source Dataset Link.<br>
-<strong>2. Exploratory Data Analysis (EDA): </strong> Performed the comprehensive exploratory analysis to gain insights into the dataset, identify patterns, correlations, and potential predictive features.<br>
-<strong>3. Data Preprocessing:</strong>Cleansed the data, handled categorical values, normalized the data, and addressed imbalanced data.<br>
-<strong>4. Model Development:</strong>Assessed the performance of each model using metrics such as accuracy, precision, recall, F1-score. Selected the best-performing model for deploymet.<br>
+<strong>1. Data collection:</strong> Obtained the customer churn dataset from Source Dataset Link.<br><br>
+<strong>2. Exploratory Data Analysis (EDA): </strong> Performed the comprehensive exploratory analysis to gain insights into the dataset, identify patterns, correlations, and potential predictive features.<br><br>
+<strong>3. Data Preprocessing:</strong>Cleansed the data, handled categorical values, normalized the data, and addressed imbalanced data.<br><br>
+<strong>4. Model Development:</strong>Assessed the performance of each model using metrics such as accuracy, precision, recall, F1-score. Selected the best-performing model for deploymet.<br><br>
 <strong>5. Model Evaluation:</strong>Assessed the performance of each model using metrics such as accuracy, precision, recall, F1-score. Selected the best-performing model.
 

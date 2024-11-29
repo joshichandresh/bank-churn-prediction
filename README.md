@@ -8,4 +8,16 @@
 <li>Data Visualization</li>
 <li>Exploratory Data Analysis</li>
 <li>Predictive Modeling</li>
-
+<h3>Technologies</h3>
+<li>Python</li>
+<li>Jupyter</li>
+<h3>Python Packages Used</h3>
+<li>Data Manipulation: Pandas, numpy</li>
+<li>Data Visualization: seaborn, matplotlib</li>
+<li>Data Preprocessing: imblearn</li>
+<li>Machine Learning: scikit, xgboost</li>
+<h3>Steps Followed</h3>
+<strong>1.Data collection:</strong> Obtained the customer churn dataset from Source Dataset Link.
+<li></li>
+<li></li>
+<li></li>

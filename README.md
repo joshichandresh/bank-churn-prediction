@@ -21,5 +21,7 @@
 <strong>2. Exploratory Data Analysis (EDA): </strong> Performed the comprehensive exploratory analysis to gain insights into the dataset, identify patterns, correlations, and potential predictive features.<br><br>
 <strong>3. Data Preprocessing:</strong>Cleansed the data, handled categorical values, normalized the data, and addressed imbalanced data.<br><br>
 <strong>4. Model Development:</strong>Assessed the performance of each model using metrics such as accuracy, precision, recall, F1-score. Selected the best-performing model for deploymet.<br><br>
-<strong>5. Model Evaluation:</strong>Assessed the performance of each model using metrics such as accuracy, precision, recall, F1-score. Selected the best-performing model.
+<strong>5. Model Evaluation:</strong>Assessed the performance of each model using metrics such as accuracy, precision, recall, F1-score. Selected the best-performing model.<br><br>
+<h2>Results and Evaluation Criterion</h2>
+<p>Based on the evaluation results, the best-performing model was XGBoost which achieved an accuracy of 96% and F1-score of 89%</p>
 
